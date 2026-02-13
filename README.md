@@ -34,7 +34,7 @@ The dataset includes:
 * `comments_disabled`
 * Other engagement-related metrics
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -44,7 +44,7 @@ The dataset includes:
 
 ##  Data Preprocessing Workflow
 
-### 1️⃣ Dataset Overview
+### 1️ Dataset Overview
 
 * `df.shape`
 * `df.info()`
