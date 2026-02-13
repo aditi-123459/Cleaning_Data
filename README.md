@@ -62,7 +62,7 @@ Filled missing numerical values using median:
 ```python
 df["views"] = df["views"].fillna(df["views"].median())
 
-### 3️⃣ Removing Duplicate Records
+### 3️ Removing Duplicate Records
 
 ```python
 df = df.drop_duplicates()
